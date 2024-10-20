@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicPerhitungan</string>
+    <string-array name="operasi_array">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
